@@ -1,9 +1,8 @@
 This prints a table with the relative oxygen consumptions of mice and humans.
 
-The "raw" data lives in `./oxygen-consumption-animals`, and the script to
-process out total oxygen consumption lives in
-`./oxygen-consumption-animals.awk`. Thus, to obtain the table one would run
-something like: `./oxygen-consumption-animals.awk < oxygen-consumption-animals`.
+The "raw" data lives in `./table`, and the script to process out total oxygen
+consumption lives in `./process`. Thus, to obtain the table one would run
+something like: `./process < ./table`.
 
 Using data from:
 
