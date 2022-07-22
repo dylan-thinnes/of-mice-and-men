@@ -1,11 +1,21 @@
+## About
+
 This prints a table with the relative oxygen consumptions of mice and humans.
 
 The "raw" data lives in `./table`, and the script to process out total oxygen
 consumption lives in `./process`. Thus, to obtain the table one would run
 something like: `./process < ./table`.
 
+## Signage
+
 In `./sign` we have the SVG/DXF files for a maximum COVID-safe occupancy sign
-built using the human to mice conversion.
+built using the human to mice conversion. We also have a PNG preview.
+
+![Sign preview](/sign/preview.png?raw=true)
+
+This sign is used in the [Edinburgh Hacklab](https://ehlab.uk).
+
+## Source of Data
 
 Using data from:
 
