@@ -42,16 +42,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1276"
-     inkscape:window-height="1417"
+     inkscape:window-height="707"
      id="namedview112"
      showgrid="false"
      inkscape:zoom="0.79722222"
-     inkscape:cx="486.7339"
-     inkscape:cy="290.33183"
+     inkscape:cx="477.95341"
+     inkscape:cy="272.77085"
      inkscape:window-x="1280"
-     inkscape:window-y="325"
+     inkscape:window-y="1035"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg110" />
+     inkscape:current-layer="svg110"
+     inkscape:snap-page="true" />
   <clipPath
      id="p.0">
     <path
@@ -59,6 +60,13 @@
        clip-rule="nonzero"
        id="path83" />
   </clipPath>
+  <rect
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18897638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect22"
+     width="960"
+     height="540"
+     x="0"
+     y="0" />
   <path
      style="fill:#000000;fill-opacity:0;fill-rule:evenodd"
      inkscape:connector-curvature="0"
