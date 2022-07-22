@@ -8,7 +8,7 @@ something like: `./process < ./table`.
 
 ## Signage
 
-In `./sign` we have the SVG/DXF files for a maximum COVID-safe occupancy sign
+In `./sign` we have the SVG file for a maximum COVID-safe occupancy sign
 built using the human to mice conversion. We also have a PNG preview.
 
 ![Sign preview](/sign/preview.png?raw=true)
