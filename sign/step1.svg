@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0.0 0.0 960.0 540.0"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg110"
+   sodipodi:docname="Untitled presentation (1).svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs114" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     id="namedview112"
+     showgrid="false"
+     inkscape:zoom="0.79722222"
+     inkscape:cx="602.01689"
+     inkscape:cy="240.15761"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg110" />
+  <clipPath
+     id="p.0">
+    <path
+       d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
+       clip-rule="nonzero"
+       id="path83" />
+  </clipPath>
+  <path
+     style="fill:#000000;fill-opacity:0;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path88"
+     d="M 71.391075,0 H 874.95017 V 381.25986 H 71.391075 Z" />
+  <path
+     style="fill:#000000;fill-opacity:0;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path94"
+     d="M 94.178474,270 H 852.16272 V 465.93701 H 94.178474 Z" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1;font-family:Futura;-inkscape-font-specification:'Futura Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="481.67249"
+     y="148.74564"
+     id="text150"><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="148.74564"
+       id="tspan152"
+       style="font-size:192px;line-height:0.89999998;text-align:center;text-anchor:middle">G1</tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="218.98698"
+       id="tspan160"
+       style="font-size:48px;text-align:center;text-anchor:middle">/ʤiːwʌn/</tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="255.44238"
+       id="tspan168" /><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="298.10904"
+       id="tspan176"
+       style="line-height:53.33333206px;text-align:center;text-anchor:middle">Recommended Maximum Capacity</tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="368.89984"
+       id="tspan178"
+       style="font-size:64px;line-height:1.10000002;text-align:center;text-anchor:middle">10 people</tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="412.7757"
+       id="tspan180"
+       style="line-height:1.10000002;text-align:center;text-anchor:middle">or</tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="474.49985"
+       id="tspan182"
+       style="font-size:64px;line-height:1.10000002;text-align:center;text-anchor:middle">2684.28 mice<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan186">1</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="481.67249"
+       y="516.7757"
+       style="font-size:13.33333302px;line-height:1.10000002;text-align:center;text-anchor:middle"
+       id="tspan184">[1] dylan-thinnes/oxygen-consumption-conversion</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1;font-family:Futura;-inkscape-font-specification:'Futura Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="485.43555"
+     y="124.80836"
+     id="text158"><tspan
+       sodipodi:role="line"
+       id="tspan156"
+       x="485.43555"
+       y="149.7325"></tspan></text>
+</svg>

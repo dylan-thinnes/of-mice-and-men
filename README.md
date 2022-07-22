@@ -4,6 +4,9 @@ The "raw" data lives in `./table`, and the script to process out total oxygen
 consumption lives in `./process`. Thus, to obtain the table one would run
 something like: `./process < ./table`.
 
+In `./sign` we have the SVG/DXF files for a maximum COVID-safe occupancy sign
+built using the human to mice conversion.
+
 Using data from:
 
 - Depledge MH. Respiration and lung function in the mouse, Mus musculus (with a note on mass exponents and respiratory variables). Respir Physiol. 1985 Apr;60(1):83-94. doi: 10.1016/0034-5687(85)90041-6. PMID: 4001609.
